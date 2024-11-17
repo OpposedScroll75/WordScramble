@@ -1,0 +1,10 @@
+C:\C# Projects\WordScramble\WordScramble\bin\Debug\WordScramble.exe.config
+C:\C# Projects\WordScramble\WordScramble\bin\Debug\WordScramble.exe
+C:\C# Projects\WordScramble\WordScramble\bin\Debug\WordScramble.pdb
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.csproj.AssemblyReference.cache
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.Form1.resources
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.Properties.Resources.resources
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.csproj.GenerateResource.cache
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.csproj.CoreCompileInputs.cache
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.exe
+C:\C# Projects\WordScramble\WordScramble\obj\Debug\WordScramble.pdb
